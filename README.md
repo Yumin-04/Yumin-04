@@ -1,7 +1,5 @@
 # Yumin Lee | Data Analyst Portfolio
 
-Rev. 3 | Created: 2026-10-19 | Updated: 2026-10-19 16:23 CDT
-
 안녕하세요, 데이터 분석가를 준비하는 이유민입니다. 지저분한 원천 데이터를 정제해 믿을 수 있는 분석 결과로 바꾸는 일에 관심이 있습니다.
 
 Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy turning messy raw data into analysis results that people can trust.
