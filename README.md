@@ -1,8 +1,8 @@
 # Yumin Lee | Data Analyst Portfolio
 
-안녕하세요, 데이터 분석가를 준비하는 이유민입니다. 지저분한 원천 데이터를 정제해 믿을 수 있는 분석 결과로 바꾸는 일에 관심이 있습니다.
+안녕하세요, 데이터 분석가를 준비하는 이유민입니다. 지저분한 원천 데이터를 정제하고 구조화해 믿을 수 있는 분석 결과로 바꾸고, 제조와 물류 현장의 데이터를 연결해 활용하는 일에 관심이 있습니다.
 
-Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy turning messy raw data into analysis results that people can trust.
+Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy cleaning and structuring messy raw data into analysis results that people can trust, and connecting manufacturing and logistics data for practical use.
 
 ---
 
@@ -29,16 +29,25 @@ Table 1. Certifications and awards
 | ESG Management Idea Contest, Excellence Award (1st place) | University contest in cooperation with KOICA | 2026.06 |
 | Online Ambassador 14th cohort, Excellence Activity Award | University Admissions Office | 2025.08 |
 
+### 1.3 Education and Training
+
+- **[KR]** 2025.06 ~ 2025.07에 Tableau Bootcamp 28기(10시간)와 첨단분야 혁신융합대학 CO-Week Academy(16시간, IoT 물류 자동화 스케줄링 등)를 이수했습니다.
+- **[EN]** Completed Tableau Bootcamp 28th cohort (10 hours) and CO-Week Academy (16 hours, including IoT logistics automation scheduling) between 2025.06 and 2025.07.
+
 ---
 
 ## 2. Experience
 
 ### 2.1 AI Data Analysis Intern | AI Startup
 
+- Period: 2026.06 ~
+
 - **[KR]** 제조 공정 센서 시계열 데이터의 결측치와 이상치를 Python으로 전처리하고 구조화했습니다.
 - **[EN]** Preprocessed and structured manufacturing process sensor time-series data with Python, handling missing values and outliers.
-- **[KR]** 구조화한 데이터로 회귀와 tree-based model을 비교하며 두께 예측 모델을 만들었습니다.
-- **[EN]** Compared regression and tree-based models on the structured data to build a thickness prediction model.
+- **[KR]** 기술통계 기반으로 시계열을 벡터화하고, 회귀와 tree-based model을 비교하며 두께 예측 모델을 만들어 선형 기반 모델에서 R² 0.88을 확보했습니다.
+- **[EN]** Vectorized the time series with descriptive statistics, compared regression and tree-based models to build a thickness prediction model, and reached R² 0.88 with a linear-based model.
+- **[KR]** 분석 과정을 markdown으로 문서화해 재현할 수 있게 했습니다.
+- **[EN]** Documented the analysis process in markdown so that it can be reproduced.
 
 ---
 
@@ -50,6 +59,8 @@ Table 1. Certifications and awards
 - **[EN]** As team leader, I integrated slotting and dispatching, which were previously handled separately, into one decision model.
 - **[KR]** 이산 사건 시뮬레이션으로 12개 전략 조합을 비교해 무작위 배치 대비 성능을 22.4% 개선했습니다.
 - **[EN]** Compared 12 strategy combinations with discrete-event simulation and improved performance by 22.4% over random placement.
+- **[KR]** 팀원들과 역할을 나누고 시뮬레이션 알고리즘 설계를 주도했습니다.
+- **[EN]** Divided roles with teammates and led the design of the simulation algorithm.
 - **[KR]** 창고의 적재 로그를 분석해 설비별 병목을 지표로 진단했고, 의견이 갈릴 때 분석 지표를 근거로 팀을 조율했습니다.
 - **[EN]** Diagnosed equipment bottlenecks from warehouse logs and used the metrics to align the team when opinions differed.
 - Stack: Python, SimPy, pandas
@@ -59,10 +70,10 @@ Table 1. Certifications and awards
 
 - **[KR]** 약 2.5만 건의 원천 데이터에서 결측치, 이상치, 문자열 표기를 정제했습니다.
 - **[EN]** Cleaned missing values, outliers, and inconsistent strings in about 25,000 raw listings.
-- **[KR]** Lasso, Ridge, SVR, boosting 등 6개 모델을 비교했고, 비선형 모델이 이 데이터의 구조를 더 잘 설명했습니다.
-- **[EN]** Compared six models including Lasso, Ridge, SVR, and boosting, and found that nonlinear models explained the data better.
-- **[KR]** 모델 계수로 숙박 가격에 큰 영향을 주는 요인을 해석했습니다.
-- **[EN]** Interpreted the main price drivers through model coefficients.
+- **[KR]** Lasso, Ridge, SVR, boosting 등 6개 모델을 비교했고, 비선형 모델이 이 데이터의 구조를 더 잘 설명했으며 CatBoost가 R² 0.72로 가장 우수했습니다.
+- **[EN]** Compared six models including Lasso, Ridge, SVR, and boosting, and found that nonlinear models explained the data better, with CatBoost the best at R² 0.72.
+- **[KR]** 모델 계수와 변수 중요도로 수용 인원, 입지, 방 유형이 숙박 가격에 가장 큰 영향을 준다는 점을 도출했습니다.
+- **[EN]** Identified capacity, location, and room type as the largest price drivers through model coefficients and feature importance.
 - Stack: Python, pandas, scikit-learn, XGBoost, CatBoost
 - Repository: [airbnb-tokyo-price-prediction](https://github.com/Yumin-04/airbnb-tokyo-price-prediction)
 
@@ -95,6 +106,7 @@ Table 2. Technical skills
 | Category | Skills |
 |---|---|
 | Language | Python, SQL, PL/SQL |
+| Proficiency (self-assessed) | Python (advanced), SQL (intermediate), Tableau (intermediate) |
 | Data Analysis | pandas, numpy, missing value and outlier handling, time-series preprocessing |
 | Modeling | scikit-learn, linear regression, Lasso, Ridge, SVR, tree-based model, XGBoost, CatBoost |
 | Simulation | SimPy, discrete-event simulation |
@@ -108,7 +120,6 @@ Table 2. Technical skills
 ## 5. Contact
 
 - Email: rhdwndldbals@naver.com
-- Email: dbalsdl0409@gmail.com
 - GitHub: [Yumin-04](https://github.com/Yumin-04)
 
 ---
