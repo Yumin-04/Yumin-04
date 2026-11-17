@@ -46,6 +46,7 @@ Table 1. Certifications and awards
 
 | Item | Issuer | Date |
 |---|---|---|
+| SUMTECH 2026 Hackathon, Top Excellence Award | Ministry of Science and ICT, IITP, Korea Digital Contents Society (joint) | 2026.10 |
 | ADsP | Korea Data Agency | 2025.11 |
 | SQLD | Korea Data Agency | 2026.03 |
 | The KBO 9 Season 2025, Excellence Award | Korea Baseball Organization | 2025.07 |
@@ -120,6 +121,15 @@ Table 1. Certifications and awards
 - **[KR]** 베트남 농촌의 낮은 의료 접근성 문제를 분석하고, 현지 약국을 거점으로 하는 원격진료와 상비약 공급 플랫폼 아이디어를 기획해 1등을 했습니다.
 - **[EN]** Analyzed low healthcare access in rural Vietnam and planned a telemedicine and essential-medicine platform built on local pharmacies, winning 1st place.
 
+### 3.6 Parent-Child Autonomy Service Planning | SUMTECH 2026 Hackathon
+
+- **[KR]** 부모의 걱정과 성인 자녀의 자율성 사이의 갈등을 줄이는 서비스 "나도으른"을 5인 팀으로 기획했고, 기획, 프롬프트, 데이터 활용을 맡았습니다.
+- **[EN]** In a team of five, planned "Nadoeureun", a service that reduces conflict between parents' concern and their adult children's autonomy, and handled planning, prompts, and data use.
+- **[KR]** 자체 설문(여성 39명)으로 문제 가설을 확인했습니다. 행선지나 동행인을 다르게 말한 경험은 71.8%(28명), AI 사진 생성 기능의 사용 의향은 56.4%(22명)였으며, 응답 표본 안에서의 결과입니다.
+- **[EN]** Checked the problem hypothesis with an in-team survey of 39 women: 71.8% (28) had told a different destination or companion, and 56.4% (22) were willing to use the AI photo generation feature, within the response sample.
+- **[KR]** 최우수상을 받았습니다. 과학기술정보통신부, 정보통신기획평가원(IITP), 한국디지털콘텐츠학회가 공동 주최했습니다.
+- **[EN]** Won the Top Excellence Award, co-hosted by the Ministry of Science and ICT, the Institute of Information and Communications Technology Planning and Evaluation (IITP), and the Korea Digital Contents Society.
+
 ---
 
 ## 4. Skills
@@ -149,16 +159,3 @@ Table 2. Technical skills
   <a href="https://github.com/Yumin-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="mailto:rhdwndldbals@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" /></a>
 </div>
-
----
-
-## Appendix A. Terminology
-
-- ADsP: 데이터분석 준전문가 자격입니다. / Advanced Data Analytics Semi-Professional certification.
-- CatBoost: categorical feature 처리에 강한 gradient boosting 라이브러리입니다. / A gradient boosting library strong on categorical features.
-- Discrete-event simulation: 개별 사건의 발생으로 운영 프로세스를 모사하는 simulation 기법입니다. / A technique that models a process as a sequence of discrete events.
-- DML: SQL에서 데이터를 조회하고 입력하고 수정하고 삭제하는 명령 집합입니다. / The SQL commands that query, insert, update, and delete data.
-- ERD: 데이터베이스의 entity와 관계를 나타내는 diagram입니다. / A diagram of database entities and relationships.
-- KOSIS: 국가통계포털입니다. / Korean Statistical Information Service.
-- SimPy: Python 기반 discrete-event simulation 라이브러리입니다. / A Python discrete-event simulation library.
-- SQLD: SQL 개발자 자격입니다. / SQL Developer certification.
