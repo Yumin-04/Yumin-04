@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:F7931E&height=200&section=header&text=Yumin%20Lee&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20Portfolio&descSize=20&descAlignY=65)
+<img src="assets/banner.svg" alt="Yumin Lee | Data Analyst Portfolio" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=640&lines=Data+Science+%2B+Smart+Factory;Clean+data%2C+trustworthy+analysis;Python+%7C+SQL+%7C+SimPy+%7C+Tableau)](https://github.com/Yumin-04)
 
