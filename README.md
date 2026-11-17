@@ -8,10 +8,6 @@
 
 # Yumin Lee | Data Analyst Portfolio
 
-안녕하세요, 데이터 분석가를 준비하는 이유민입니다. 지저분한 원천 데이터를 정제하고 구조화해 믿을 수 있는 분석 결과로 바꾸고, 제조와 물류 현장의 데이터를 연결해 활용하는 일에 관심이 있습니다.
-
-Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy cleaning and structuring messy raw data into analysis results that people can trust, and connecting manufacturing and logistics data for practical use.
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
