@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Yumin Lee | Data Analyst Portfolio" width="100%" />
+<img src="assets/banner-pink.svg" alt="Yumin Lee | Data Analyst Portfolio" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF5CC8&pause=1200&center=true&vCenter=true&width=640&lines=Data+Science+%2B+Smart+Factory;Clean+data%2C+trustworthy+analysis;Python+%7C+SQL+%7C+SimPy+%7C+Tableau)](https://github.com/Yumin-04)
 
