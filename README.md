@@ -36,6 +36,16 @@ Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy cleaning and structuring me
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;
 </div>
 
+<h3 align="center">📊 Stats 📊</h3>
+
+<div align="center">
+  <img src="assets/card-stats.svg" alt="GitHub stats" width="48%" />
+  <img src="assets/card-langs.svg" alt="Most used languages" width="48%" />
+  <br>
+  <img src="assets/card-activity.svg" alt="Recent activity" width="48%" />
+  <img src="assets/card-highlights.svg" alt="Highlights" width="48%" />
+</div>
+
 <h3 align="center">📮 Contact 📮</h3>
 
 <div align="center">
