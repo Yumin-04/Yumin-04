@@ -1,8 +1,31 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:F7931E&height=200&section=header&text=Yumin%20Lee&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20Portfolio&descSize=20&descAlignY=65)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=640&lines=Data+Science+%2B+Smart+Factory;Clean+data%2C+trustworthy+analysis;Python+%7C+SQL+%7C+SimPy+%7C+Tableau)](https://github.com/Yumin-04)
+
+</div>
+
 # Yumin Lee | Data Analyst Portfolio
 
 안녕하세요, 데이터 분석가를 준비하는 이유민입니다. 지저분한 원천 데이터를 정제하고 구조화해 믿을 수 있는 분석 결과로 바꾸고, 제조와 물류 현장의 데이터를 연결해 활용하는 일에 관심이 있습니다.
 
 Hi, I'm Yumin Lee, an aspiring data analyst. I enjoy cleaning and structuring messy raw data into analysis results that people can trust, and connecting manufacturing and logistics data for practical use.
+
+<h3 align="center">Tech Stack</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />&nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost" />&nbsp;
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" alt="CatBoost" />&nbsp;
+  <img src="https://img.shields.io/badge/SimPy-2C3E50?style=for-the-badge" alt="SimPy" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />&nbsp;
+</div>
 
 ---
 
@@ -121,6 +144,11 @@ Table 2. Technical skills
 
 - Email: rhdwndldbals@naver.com
 - GitHub: [Yumin-04](https://github.com/Yumin-04)
+
+<div align="center">
+  <a href="https://github.com/Yumin-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:rhdwndldbals@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" /></a>
+</div>
 
 ---
 
